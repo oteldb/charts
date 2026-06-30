@@ -3,6 +3,17 @@ entries:
   oteldb:
   - apiVersion: v2
     appVersion: v0.31.0
+    created: "2026-06-30T23:19:39+03:00"
+    description: A Helm chart for oteldb (single-node, embedded oteldb/storage with
+      persistence)
+    digest: 16432378b59922637a7b0903017b04782d6f419d1ee8c694594fae84c47cc92c
+    name: oteldb
+    type: application
+    urls:
+    - oteldb-0.22.0.tgz
+    version: 0.22.0
+  - apiVersion: v2
+    appVersion: v0.31.0
     created: "2025-11-25T17:04:05+03:00"
     description: A Helm chart for oteldb
     digest: a88c13490e17e1cf2be6399e34fe91af7915d072c721b5bebfc9ccaecfd6d78a
@@ -81,4 +92,4 @@ entries:
     urls:
     - oteldb-0.2.0.tgz
     version: 0.2.0
-generated: "2025-11-25T17:04:05.783345925+03:00"
+generated: "2026-06-30T23:19:39.509388709+03:00"

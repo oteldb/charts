@@ -1,5 +1,6 @@
 This repository holds helm templates for the following oteldb releases:
 
+* [v0.22.0](https://github.com/oteldb/oteldb/releases/tag/v0.22.0) (_[source](https://github.com/oteldb/oteldb/tree/v0.22.0/helm/oteldb)_)
 * [v0.21.0](https://github.com/oteldb/oteldb/releases/tag/v0.21.0) (_[source](https://github.com/oteldb/oteldb/tree/v0.21.0/helm/oteldb)_)
 * [v0.20.0](https://github.com/oteldb/oteldb/releases/tag/v0.20.0) (_[source](https://github.com/oteldb/oteldb/tree/v0.20.0/helm/oteldb)_)
 * [v0.19.1](https://github.com/oteldb/oteldb/releases/tag/v0.19.1) (_[source](https://github.com/oteldb/oteldb/tree/v0.19.1/helm/oteldb)_)
